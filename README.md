@@ -1,7 +1,5 @@
 # Atlas AI Platform - Complete System Documentation
 
-**Version**: 1.0.0  
-**Last Updated**: March 2026
 
 ---
 
@@ -797,13 +795,4 @@ curl http://localhost:9090/api/v1/targets
 - [Database Schema](alembic/versions/) - Migration history & schema
 - [API Documentation](http://localhost:8000/docs) - Swagger UI (when running)
 
----
 
-## 📝 License
-
-[Your License Here]
-
----
-
-**Last Updated**: March 2026  
-**Maintainer**: Atlas AI Team
